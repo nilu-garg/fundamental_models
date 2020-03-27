@@ -1,0 +1,9 @@
+dbkeys.json
+.Rhistory
+generator/.Rhistory
+generator/.httr-oauth
+backtester/loopresults
+testsettings.R
+config.R
+
+
